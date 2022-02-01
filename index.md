@@ -12,6 +12,6 @@ Here is a frog.
 - item 3
 - item 4
 
-- [] first task
-- [] second task
+- [ ] first task
+- [ ] second task
 - [x] third task 
